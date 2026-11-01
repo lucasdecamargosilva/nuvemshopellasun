@@ -657,7 +657,7 @@ setInterval(function(){var el=document.getElementById('q-step-error');if(!el)ret
                     <!-- Persistent header (all steps) -->
                     <div id="q-header-provador">
                         <h1>Provador Virtual</h1>
-                        <img src="https://dcdn-us.mitiendanube.com/stores/006/503/573/themes/common/logo-565037532-1753737047-2d12b82ed4f0ba07c0e9193cdeb6075e1753737047.png" alt="Ella Sunglass" style="height:64px;width:auto;display:block;margin:0 auto;"/>
+                        <img src="https://dcdn-us.mitiendanube.com/stores/006/503/573/themes/common/logo-565037532-1753737047-2d12b82ed4f0ba07c0e9193cdeb6075e1753737047.png" alt="Ella Sunglass" style="height:110px;margin-top:-18px !important;margin-bottom:-18px !important;width:auto;display:block;margin:0 auto;"/>
                     </div>
 
                     <!-- Main step -->
